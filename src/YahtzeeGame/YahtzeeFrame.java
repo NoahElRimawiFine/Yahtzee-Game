@@ -1017,6 +1017,5 @@ public class YahtzeeFrame extends javax.swing.JFrame {
     private javax.swing.JTextField txtYahtzee;
     private javax.swing.JTextField upperScoreTextField;
     private javax.swing.JToggleButton yahtzeeButton;
-    // End of variables declaration
 
 }
