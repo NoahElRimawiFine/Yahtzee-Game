@@ -73,7 +73,8 @@ public class OptimalStrategy {
 
         return transitionMatrix;
     }
-
+    
+    // same method implemented in the GameModel class
     public String chooseDiceToHold(Dice myDice) {
         // create the diceValues hashMap
         HashMap<Integer, Integer> diceValues = myDice.buildFreqTable();
