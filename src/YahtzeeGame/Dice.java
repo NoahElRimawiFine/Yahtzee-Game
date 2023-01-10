@@ -123,7 +123,8 @@ public class Dice {
     public Die[] getRolls() {
         return rolls;
     }
-
+    
+    // change for encapsulation purposes?
     public void setValue(int value) {
         this.value = value;
     }
